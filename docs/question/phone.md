@@ -1,3 +1,8 @@
+---
+title: How to Install IPA/APK Files
+description: Guide to installing PakePlus packaged IPA and APK files on iOS and Android devices.
+---
+
 ## How to Install IPA Files?
 
 Since these are unsigned iOS applications, manual installation is required. There are several methods to install IPA files:
@@ -21,7 +26,6 @@ For permanent installation without jailbreaking:
 ## iOS Webclip
 
 iOS devices can install apps by packaging the iOS no-signature solution and using the installation descriptor file. The biggest advantage of this solution is that it is signature-free, allowing installation on any device. All that is needed is to download the packaged descriptor file. Currently, only the online URL packaging iOS no-signature solution is supported.
-
 
 ## How to Install APK Files?
 

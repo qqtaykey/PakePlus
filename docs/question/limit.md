@@ -1,3 +1,8 @@
+---
+title: PakePlus Usage Limits
+description: Understand PakePlus usage limitations including daily project creation and release restrictions to ensure fair use of GitHub services.
+---
+
 # Limits
 
 <div style="color:red">in order to avoid excessive pressure on Github servers caused by excessive use, PakePlus has implemented restrictions: only one project can be created and only one release can be made per day!</div>  

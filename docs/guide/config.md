@@ -1,3 +1,8 @@
+---
+title: PakePlus Project Configuration Guide
+description: Configure your app name, URL, identifier, version, and more in PakePlus. Simple UI with rich options for desktop and mobile packaging.
+---
+
 # Basic Configuration
 
 After creating your project, you'll need to configure some basic settings. These include your app name, the URL to package, the app identifier (ID), and the version number. The first four fields are required, while the rest can be configured based on your needs.

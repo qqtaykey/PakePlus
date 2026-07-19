@@ -1,3 +1,8 @@
+---
+title: Custom Build - Package Without Token
+description: Build your cross-platform desktop app locally without GitHub Token. Unlimited projects and build frequency with PakePlus custom build.
+---
+
 # Custom Build
 
 ::: info Advantages of Custom Build

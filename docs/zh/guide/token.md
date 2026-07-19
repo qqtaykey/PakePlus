@@ -1,6 +1,6 @@
 ---
-title: PakePlus
-titleTemplate: 网站秒变桌面应用和手机应用 | 获取Token教程
+title: 获取 GitHub Token 教程 - PakePlus
+description: 详细图文教程获取 GitHub Token，用于 PakePlus 云端编译打包。GitHub 账号永久免费。
 layout: doc
 ---
 

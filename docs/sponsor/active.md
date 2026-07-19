@@ -1,3 +1,8 @@
+---
+title: Sponsor Rewards - PakePlus
+description: Explore the rewards and privileges available after sponsoring PakePlus development.
+---
+
 # Rewards
 
 PakePlus is an open-source project on GitHub. Most features are free to use, but development, maintenance, and bug fixing require a significant amount of time and effort. Thank you for your support. As a token of appreciation, after sponsoring, you can contact us via email or WeChat to unlock additional privileges, including:

@@ -1,3 +1,8 @@
+---
+title: 自定义打包 - 无需 Token 本地打包
+description: PakePlus 自定义打包功能，无需 GitHub Token，本地打包不限制项目数量和频率，支持所有平台。
+---
+
 # 自定义打包
 
 ::: info 自定义打包优点

@@ -1,3 +1,8 @@
+---
+title: 官方团队 - PakePlus
+description: PakePlus 官方团队成员介绍。
+---
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 

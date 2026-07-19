@@ -1,3 +1,8 @@
+---
+title: Create a Project in PakePlus
+description: Learn how to create a new project in PakePlus for packaging your web application into a cross-platform desktop or mobile app.
+---
+
 # Create Project
 
 After obtaining and verifying your GitHub Token, you're ready to create a project. If you haven't obtained a Token or your Token is invalid, you can still create a temporary project locally. However, we strongly recommend following the Token acquisition steps to get your GitHub Token before proceeding.

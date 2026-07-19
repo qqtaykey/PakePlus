@@ -1,3 +1,8 @@
+---
+title: Custom Development Services - PakePlus
+description: Get custom development services for PakePlus. Need features not yet implemented? Contact us for custom solutions.
+---
+
 # Custom
 
 1. Can't some functions be implemented?

@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
 
+const SITE_URL = 'https://pakeplus.com'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: 'PakePlus',
@@ -449,8 +451,79 @@ export default defineConfig({
             },
         },
     },
+    sitemap: {
+        hostname: SITE_URL,
+    },
     head: [
         ['link', { rel: 'icon', href: 'https://files.pakeplus.com/app.svg' }],
+        ['link', { rel: 'canonical', href: SITE_URL }],
+        // Open Graph
+        ['meta', { property: 'og:type', content: 'website' }],
+        ['meta', { property: 'og:site_name', content: 'PakePlus' }],
+        ['meta', { property: 'og:url', content: SITE_URL }],
+        [
+            'meta',
+            {
+                property: 'og:image',
+                content: 'https://files.pakeplus.com/app.webp',
+            },
+        ],
+        ['meta', { property: 'og:image:width', content: '1200' }],
+        ['meta', { property: 'og:image:height', content: '630' }],
+        // Twitter Card
+        ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+        ['meta', { name: 'twitter:site', content: '@1024xiaoshen' }],
+        ['meta', { name: 'twitter:creator', content: '@1024xiaoshen' }],
+        [
+            'meta',
+            {
+                name: 'twitter:image',
+                content: 'https://files.pakeplus.com/app.webp',
+            },
+        ],
+        // Additional SEO
+        ['meta', { name: 'author', content: 'PakePlus' }],
+        [
+            'meta',
+            {
+                name: 'robots',
+                content: 'index, follow, max-image-preview:large',
+            },
+        ],
+        ['meta', { name: 'googlebot', content: 'index, follow' }],
+        // JSON-LD Structured Data
+        [
+            'script',
+            { type: 'application/ld+json' },
+            JSON.stringify({
+                '@context': 'https://schema.org',
+                '@type': 'SoftwareApplication',
+                name: 'PakePlus',
+                url: SITE_URL,
+                description:
+                    'Package HTML/Web/Vue/React projects into Desktop/Mobile Apps in minutes. Open source free packaging tool.',
+                applicationCategory: 'DeveloperApplication',
+                operatingSystem: 'Windows, macOS, Linux, Android, iOS',
+                offers: {
+                    '@type': 'Offer',
+                    price: '0',
+                    priceCurrency: 'USD',
+                },
+                author: {
+                    '@type': 'Person',
+                    name: '1024xiaoshen',
+                    url: 'https://github.com/Sjj1024',
+                },
+                publisher: {
+                    '@type': 'Organization',
+                    name: 'PakePlus',
+                    logo: {
+                        '@type': 'ImageObject',
+                        url: 'https://files.pakeplus.com/app.svg',
+                    },
+                },
+            }),
+        ],
         [
             'script',
             {},
@@ -464,6 +537,34 @@ export default defineConfig({
         ],
         ['script', { src: '/ppweb.js', type: 'module' }],
     ],
+    // Dynamically inject per-page SEO meta tags
+    transformPageData(pageData) {
+        const isZh = pageData.relativePath.startsWith('zh/')
+        const canonicalUrl = `${SITE_URL}/${pageData.relativePath}`
+            .replace(/index\.md$/, '')
+            .replace(/\.md$/, '.html')
+        const title =
+            pageData.frontmatter.title || (isZh ? 'PakePlus' : 'PakePlus')
+        const description =
+            pageData.frontmatter.description ||
+            (isZh
+                ? '打包HTML/网页/Vue/React项目为桌面/手机应用只需几分钟，官方开源免费打包工具'
+                : 'Package HTML/Web/Vue/React projects into Desktop/Mobile Apps in minutes, open source free packaging tool')
+        pageData.frontmatter.head = [
+            ...(pageData.frontmatter.head || []),
+            ['link', { rel: 'canonical', href: canonicalUrl }],
+            ['meta', { property: 'og:title', content: title }],
+            ['meta', { property: 'og:description', content: description }],
+            ['meta', { property: 'og:url', content: canonicalUrl }],
+            [
+                'meta',
+                { property: 'og:locale', content: isZh ? 'zh_CN' : 'en_US' },
+            ],
+            ['meta', { name: 'twitter:title', content: title }],
+            ['meta', { name: 'twitter:description', content: description }],
+            ['meta', { name: 'description', content: description }],
+        ]
+    },
     themeConfig: {
         search: {
             provider: 'local',

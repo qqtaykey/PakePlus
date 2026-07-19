@@ -1,3 +1,8 @@
+---
+title: 移动端配置 - PakePlus
+description: PakePlus 移动端高级配置，支持自定义 userAgent 等选项。
+---
+
 # 移动端配置
 
 在移动端配置页面，点击右上角的更多配置，支持配置自定义 userAgent 等，更多配置还在开发中，以最终发布版本为准。

@@ -1,3 +1,8 @@
+---
+title: PakePlus Privacy Policy
+description: Read the PakePlus privacy policy. We respect your privacy and do not collect or upload any user data.
+---
+
 # PakePlus Privacy Policy
 
 **Last Updated:** October 28, 2024

@@ -1,3 +1,8 @@
+---
+title: 打包 HTML 项目 - PakePlus
+description: 学习如何使用 PakePlus 将静态 HTML 项目打包为跨平台桌面应用。
+---
+
 # 打包 html 项目
 
 需要将你的 html 文件存放到一个文件夹中，并且一定要包含 index.html 文件。

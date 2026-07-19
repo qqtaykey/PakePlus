@@ -1,3 +1,8 @@
+---
+title: 脚本开发指南 - PakePlus
+description: PakePlus 脚本开发教程，使用 JavaScript 实现浏览器插件级别的功能，配合系统级 API 实现堪比真正软件的效果。
+---
+
 # 脚本开发
 
 使用脚本可以实现什么功能？

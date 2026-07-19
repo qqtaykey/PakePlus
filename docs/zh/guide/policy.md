@@ -1,3 +1,8 @@
+---
+title: PakePlus 隐私政策
+description: 阅读 PakePlus 隐私政策。我们尊重您的隐私，不会收集或上传任何用户数据。
+---
+
 # PakePlus 隐私政策
 
 **最近更新日期：** 2024 年 10 月 28 日

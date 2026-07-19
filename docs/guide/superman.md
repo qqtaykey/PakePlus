@@ -1,3 +1,8 @@
+---
+title: Advanced Play - Custom Build Workflow
+description: Advanced workflow for developers to sync dist directories to GitHub for compilation. Ideal for large projects and frontend debugging.
+---
+
 # Advanced Usage
 
 For developers who need to debug frontend projects or handle large `dist` directories (which may exceed GitHub API size/quantity limits in PakePlus), here's an advanced workflow to sync your `dist` directory to GitHub for compilation:

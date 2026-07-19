@@ -1,3 +1,8 @@
+---
+title: Invalid Token - PakePlus Troubleshooting
+description: Fix invalid GitHub Token issues in PakePlus. Learn how to correctly configure token permissions for cloud compilation.
+---
+
 # Invalid Token
 
 This occurs because the GitHub token wasn't granted the required permissions during creation.

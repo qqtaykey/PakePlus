@@ -1,3 +1,8 @@
+---
+title: 发布在线网站 - PakePlus
+description: 使用 PakePlus 将静态文件发布为在线网站，基于 GitHub Pages，全球免费永久访问。
+---
+
 # 发布在线网站
 
 PakePlus 现在支持将静态文件发布为在线网站了，无论你是 html 代码，还是用 vue、react 等框架写的代码，只要最后都编译为 html 代码，就都可以发布为在线网站了，并且是全球可访问永久免费，因为它使用的是 github pages 发布的，所以不用担心跑路，因为后台够硬。可以观看视频教程：[PakePlus 可免费发布 vue/react/html 为在线网站了](https://www.bilibili.com/video/BV1WBADz3Ex8/?spm_id_from=333.1387.upload.video_card.click)

@@ -1,3 +1,8 @@
+---
+title: JavaScript Script Development Guide
+description: Write custom JavaScript scripts to inject into your packaged apps. Achieve browser extension capabilities and more with PakePlus script development.
+---
+
 # Script Development
 
 What can you achieve using scripts?

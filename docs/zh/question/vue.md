@@ -1,3 +1,8 @@
+---
+title: 打包 Vue/React 项目 - PakePlus
+description: 将 Vue 或 React 项目打包为跨平台桌面应用，使用 PakePlus 打包工具。
+---
+
 # 打包 vue/react 项目
 
 将 vue/react 项目进行 build 之后，将 dist 文件夹中的文件上传到服务器即可。

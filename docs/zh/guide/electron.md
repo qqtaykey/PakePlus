@@ -1,3 +1,8 @@
+---
+title: Electron 版本 - PakePlus
+description: PakePlus Electron 版本支持 Win7、国产统信、麒麟等系统，UI 统一稳定，体积较大但功能完善。
+---
+
 # Electron 版本
 
 Electron 版本最大的优势就是支持 win7 和国产统信、麒麟等 linux arm 系统，并且支持各个平台的 UI 可以保持一致，而且相对比较稳定，功能完全类似浏览器，完美兼容各类 API，例如下载保存文件提示、打印文件弹窗等等，如果用 tauri 则需要自己写代码来实现这些下载逻辑。但是缺点就是体积比较大，windows 平台体积在 120M 左右，mac 和 linux 体积在 80M 左右。

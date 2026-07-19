@@ -1,3 +1,8 @@
+---
+title: Reporting Issues - PakePlus
+description: How to report bugs and issues in PakePlus. Submit detailed issue reports on GitHub for faster resolution.
+---
+
 # Reporting Issues
 
 If you encounter unresolved problems and prefer not to contact us directly, you may submit an issue. Please provide as much detail as possible.

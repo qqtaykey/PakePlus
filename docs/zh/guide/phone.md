@@ -1,6 +1,6 @@
 ---
-title: PakePlus
-titleTemplate: 网站变手机应用 | 使用教程
+title: 移动端 APP 配置 - PakePlus
+description: 在 PakePlus 中配置 Android 和 iOS 手机应用设置，使用原生框架打包，体积更小速度更快。
 layout: doc
 ---
 

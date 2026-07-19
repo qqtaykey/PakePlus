@@ -1,10 +1,16 @@
-# Packaging Vue/React Projects  
+---
+title: Packaging Vue/React Projects with PakePlus
+description: Package your Vue or React project dist folder into a cross-platform desktop application using PakePlus.
+---
 
-After building your Vue/React project, upload the contents of the `dist` folder to the server.  
+# Packaging Vue/React Projects
 
-### Important Notes:  
-- The uploaded folder **must contain** an `index.html` file.  
-- Individual files in the folder **cannot exceed 10MB** in size.  
-- Static resources (images, videos, etc.) **should use external links** whenever possible.  
+After building your Vue/React project, upload the contents of the `dist` folder to the server.
 
-> 💡 *Tip: For optimal performance, minimize bundled assets and leverage CDN-hosted libraries.*
+### Important Notes:
+
+-   The uploaded folder **must contain** an `index.html` file.
+-   Individual files in the folder **cannot exceed 10MB** in size.
+-   Static resources (images, videos, etc.) **should use external links** whenever possible.
+
+> 💡 _Tip: For optimal performance, minimize bundled assets and leverage CDN-hosted libraries._

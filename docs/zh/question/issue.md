@@ -1,3 +1,8 @@
+---
+title: 提交 Bug - PakePlus
+description: 在 GitHub 上提交 PakePlus 的 Bug 报告，获取社区帮助解决问题。
+---
+
 # Issue
 
 如果有难以解决的问题，又不好意思联系我们，可以提交 issue，提交内容请尽量详细。

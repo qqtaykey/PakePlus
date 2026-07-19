@@ -1,3 +1,8 @@
+---
+title: 使用限制 - PakePlus
+description: 了解 PakePlus 的使用限制，包括项目创建和发布频率限制，以确保公平使用 GitHub 服务。
+---
+
 # 使用限制
 
 <div style="color:red">现阶段避免大量使用导致 Github 服务器压力过大，PakePlus 已做限制：仅可创建 3 个项目，每小时发布1次！</div>  

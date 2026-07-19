@@ -1,3 +1,8 @@
+---
+title: Mobile App Configuration in PakePlus
+description: Configure Android and iOS mobile app settings in PakePlus. Package web apps into native mobile applications with smaller size and faster performance.
+---
+
 # Mobile App Configuration
 
 Click the phone icon in the upper right corner of the software configuration interface to enter the mobile configuration page.
@@ -11,5 +16,6 @@ Please refer to the actual interface for configuration details, as some options 
 
 To compile and release your mobile app, click the dedicated "Publish" button in the app interface. After completion, you'll be automatically redirected to the download page.
 Both mobile and desktop installation packages will appear in the same download list:
-- Files ending with `.apk` are Android installation packages
-- Files ending with `.ipa` are iOS installation packages
+
+-   Files ending with `.apk` are Android installation packages
+-   Files ending with `.ipa` are iOS installation packages

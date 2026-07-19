@@ -1,3 +1,8 @@
+---
+title: 其他问题 - PakePlus
+description: PakePlus 其他常见问题和功能需求反馈。
+---
+
 # 其他问题
 
 一个功能性问题，可能 PakePlus 还没有完善，需要你提新的需求，后面会慢慢完善

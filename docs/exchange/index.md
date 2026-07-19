@@ -1,3 +1,8 @@
+---
+title: Join PakePlus Community
+description: Join the PakePlus community for technical support, group chat, and custom development services.
+---
+
 # Join Our Community
 
 If you have WeChat, you can join our group chat or add me directly. Please note:

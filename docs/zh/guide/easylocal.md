@@ -1,3 +1,8 @@
+---
+title: 本地打包 - PakePlus
+description: PakePlus 本地打包教程，无需 GitHub Token，本地 30 秒快速打包跨平台桌面应用。
+---
+
 # 本地打包
 
 ::: danger 注意

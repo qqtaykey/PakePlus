@@ -1,3 +1,8 @@
+---
+title: Other Issues - PakePlus
+description: Other common issues and feature requests for PakePlus. Submit issues and get help from the community.
+---
+
 # Other Issues
 
 You may encounter functional limitations as PakePlus is still under active development. If you need features that aren't currently available:

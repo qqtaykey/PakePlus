@@ -1,3 +1,8 @@
+---
+title: IPA/APK 安装教程 - PakePlus
+description: PakePlus 打包的 IPA 和 APK 文件安装指南，支持 iOS 和 Android 设备。
+---
+
 # ipa 包怎么安装？
 
 因为这是没签名的 ios 应用，所以需要手动安装。

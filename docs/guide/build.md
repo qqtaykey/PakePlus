@@ -1,3 +1,8 @@
+---
+title: Build and Release with PakePlus
+description: Compile and release your cross-platform desktop application using PakePlus. Supports Windows, macOS, and Linux with GitHub Actions cloud build.
+---
+
 # Compilation and Release
 
 This step instructs GitHub to compile your project into a cross-platform desktop application. Currently, PakePlus only supports desktop platforms (mobile support coming soon). You can choose between two release modes:

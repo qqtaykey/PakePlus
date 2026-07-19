@@ -1,3 +1,8 @@
+---
+title: Download PakePlus
+description: Download PakePlus desktop client for Windows, macOS, and Linux. Free and open source web packaging tool.
+---
+
 <div :class="$style.down">
   <DownPage />
 </div>

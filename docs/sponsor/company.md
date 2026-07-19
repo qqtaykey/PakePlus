@@ -1,3 +1,8 @@
+---
+title: PakePlus Corporate Sponsors
+description: Meet the companies and organizations that support PakePlus open source development.
+---
+
 # List of Companies
 
 PakePlus is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome backers. If you'd like to join them, please consider sponsoring PakePlus's development.

@@ -1,3 +1,8 @@
+---
+title: Desktop API Reference
+description: Complete reference for PakePlus Desktop API. Call system-level APIs in JavaScript scripts including file operations, commands, windows, and more.
+---
+
 # Desktop API
 
 ::: danger 注意

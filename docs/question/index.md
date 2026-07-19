@@ -1,3 +1,8 @@
+---
+title: PakePlus FAQ - Troubleshooting Common Issues
+description: Solutions for common PakePlus issues including app damaged errors, white screen, window problems, and compilation failures.
+---
+
 # Problem self inspection
 
 If there are problems, self-examination is often more effective.

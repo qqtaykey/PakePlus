@@ -1,4 +1,6 @@
 ---
+title: PakePlus Guide - Turn Web into Desktop/Mobile Apps
+description: Learn how to use PakePlus to package websites, Vue, React, and HTML projects into cross-platform desktop and mobile applications. Open source and free.
 layout: doc
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: PakePlus
-titleTemplate: 网站变桌面应用和手机应用 | 使用教程
+title: PakePlus 简介 - 网站秒变桌面应用和手机应用
+description: PakePlus 是基于 Tauri2 和 Github 的开源打包工具，可将任意网站/Vue/React/HTML项目打包为跨平台桌面和手机应用，体积小于5M，性能快10倍。
 layout: doc
 ---
 

@@ -1,3 +1,8 @@
+---
+title: Token 无效 - PakePlus 问题解决
+description: 解决 PakePlus 中 GitHub Token 无效的问题，学习如何正确配置 Token 权限。
+---
+
 # token 无效
 
 这是因为在获取 github token 的时候，没有给相应的权限。

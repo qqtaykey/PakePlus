@@ -1,3 +1,8 @@
+---
+title: 赞助商名单 - PakePlus
+description: 感谢支持 PakePlus 开源项目的企业和组织。
+---
+
 # 公司名单
 
 PakePlus 是一个采用 MIT 许可证的开源项目，其持续开发完全得益于这些慷慨支持者的鼎力相助。如果您也想加入他们的行列，请考虑赞助 PakePlus 的开发。

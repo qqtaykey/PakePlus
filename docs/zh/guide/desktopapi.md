@@ -1,3 +1,8 @@
+---
+title: 桌面端 API 参考 - PakePlus
+description: PakePlus 桌面端 API 完整参考文档，支持在 JavaScript 脚本中调用系统级 API，包括文件操作、命令执行、窗口管理等。
+---
+
 # 桌面端 API
 
 ::: danger 注意

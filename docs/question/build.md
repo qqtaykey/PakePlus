@@ -1,3 +1,8 @@
+---
+title: Compilation Failed - PakePlus Troubleshooting
+description: Common reasons and solutions for compilation failures in PakePlus. Fix build errors for your cross-platform desktop apps.
+---
+
 # Compilation Failed
 
 There are several common reasons for compilation failures:

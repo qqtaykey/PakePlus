@@ -1,3 +1,8 @@
+---
+title: How to Get GitHub Token for PakePlus
+description: Step-by-step guide to obtain GitHub Token for PakePlus cloud compilation and packaging. Free forever with GitHub account.
+---
+
 # Obtaining a Token
 
 ::: danger Token

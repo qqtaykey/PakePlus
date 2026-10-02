@@ -52,28 +52,6 @@ PakePlus 是一个采用 MIT 许可证的开源项目，其持续开发完全得
             <p style="margin: 0">专业开发领域的领先集成开发环境</p>
         </td>
     </tr>
-        <tr>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/sichou.png" width="100"/>
-            <h3 style="margin: 0"><a href="https://code.silkapi.com" target="_blank">丝绸API</a></h3>
-            <p style="margin: 0">专注于提供 Codex 高速稳定API中转</p>
-        </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/24789812?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://bit.dev/?ref=pakeplus" target="_blank">Bit</a></h3>
-            <p style="margin: 0">强大的AI开发平台</p>
-        </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://www.prisma.io/?ref=pakeplus" target="_blank">Prisma</a></h3>
-            <p style="margin: 0">使数据更容易的为你服务</p>
-        </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://www.cloudflare.com/?ref=pakeplus" target="_blank">Cloudflare</a></h3>
-            <p style="margin: 0">用Cloudflare编译和部署你的AI服务</p>
-        </td>
-    </tr>
 </table>
 
 ## 特性
